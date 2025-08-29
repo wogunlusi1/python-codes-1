@@ -1,0 +1,48 @@
+How to Program to compare prices and expense difference
+Write a program that compares two prices to determine which is greater or less than or equal to. The 
+
+The program should ask the user to enter the price of the first item and then the price of the second item and will then run a comparison to display which item is more expensive. 
+
+INPUT
+	What is the input?
+		Price of each item
+	Data Type?
+		int
+	Where does the input come from?
+		User (given or user)
+	How much data is there?
+		2 int
+	Python
+		# input always returns a string value. You need an integer. So you # must change t
+		#must change the string to an integer by using int
+
+		price1 = float(input(“Enter the price of the first item: $”))
+		price2 = float(input(“Enter the price of the second item: $”))
+PROCESSING (Formulas)
+	Python
+		price1>price2
+		price1<price2
+		price1=price2 		
+OUTPUT
+	What is the output?
+		Price1, price2
+	Data type?
+		float
+	What does the output look like?
+		Price in Dollar ($)
+		Item 1
+		Item 2
+	Python
+		print( “Comparison result: {}”.forma(message))
+
+#Variables
+# $ - Price in dollars
+	
+
+		
+
+
+
+
+		
+
